@@ -7,15 +7,12 @@ body {
 }
 
 h1 {
-  Text-align: center;
+  text-align: center;
   font-family: Roboto Condensed;
   font-weight: normal;
-  text-transform: Capitalized;
+  text-transform: uppercase;
   border-bottom: 1px solid #57b1dc;
   margin-top: 30px;
-  color: #d1633c;
-  border: 1px solid white;
-  background-color:white;
 }
 
 h2 {
